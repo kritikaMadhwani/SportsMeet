@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229873449305",
+    "project_id": "sportsmeet-e885c",
+    "storage_bucket": "sportsmeet-e885c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229873449305:android:df9cbfe5c81e3e19773448",
+        "android_client_info": {
+          "package_name": "com.madhwanikritika.sportsmeet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMr4GIdNmkc79P4bvwcjT7HMi-x6q00HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
